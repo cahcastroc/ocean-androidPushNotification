@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "431856372538",
+    "project_id": "pushnotification-ocean",
+    "storage_bucket": "pushnotification-ocean.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431856372538:android:1afd6fa321199dd37d1e03",
+        "android_client_info": {
+          "package_name": "me.camila.pushnotification_ocean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431856372538-hl65doc6cv6ulneuljdfsgo3h74qopuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCTm0XNh6rwbOtvgOS77Fvz7UOTfYhKTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431856372538-hl65doc6cv6ulneuljdfsgo3h74qopuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
